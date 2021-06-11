@@ -1,0 +1,7 @@
+__history/
+Debug/
+Release/
+*.twfd
+*.twopts
+*.@@@
+*.cbproj.local
