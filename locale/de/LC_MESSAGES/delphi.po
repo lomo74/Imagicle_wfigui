@@ -1,0 +1,23 @@
+# Imagicle print2fax
+# Copyright (C) 2021 Lorenzo Monti
+# This file is distributed under the GNU General Public License version 3.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Imagicle print2fax\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2011-05-26 17:56\n"
+"Last-Translator: Automatically generated\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Confirm"
+msgstr ""
+
+msgid "&Yes"
+msgstr ""
+
+msgid "&No"
+msgstr ""
