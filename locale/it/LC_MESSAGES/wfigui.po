@@ -7,15 +7,16 @@ msgstr ""
 "Project-Id-Version: Imagicle print2fax\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 11:55+0200\n"
-"PO-Revision-Date: 2021-04-18 11:56+0200\n"
-"Last-Translator: Lorenzo Monti <lorenzo@lorenzomonti.it>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2021-08-03 13:32+0000\n"
+"Last-Translator: Marco Da Rios <marco.darios@imagicle.com>\n"
+"Language-Team: Italian <https://weblate.imagicle.com/projects/"
+"imagicle-print-to-fax/wfigui/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. ConfigForm..Caption
 #. MainForm..Caption
@@ -59,7 +60,7 @@ msgstr ""
 #. SelectRcpt..OK..Caption
 #: frmConfig.dfm:151
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. ConfigForm..Panel3..btnCancel..Caption
 #. FormProgress..btnCancelClose..Caption
@@ -83,7 +84,7 @@ msgstr "Email notifica"
 #. ConfigForm..tabs..tsAddrBook..gbODBC..Label17..Caption
 #: frmConfig.dfm:201
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #. ConfigForm..tabs..tsServer..Label2..Caption
 #. ConfigForm..tabs..tsAddrBook..gbODBC..Label16..Caption
@@ -303,7 +304,7 @@ msgstr "Errori"
 #. ConfigForm..tabs..tsOptions..cbLogLevel....Items.Strings
 #: frmConfig.dfm:561
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 #. Confirmation..Caption
 #: frmConfirm.dfm:4
@@ -323,7 +324,7 @@ msgstr "Dettagli:"
 #. Confirmation..Panel2..Close..Caption
 #: frmConfirm.dfm:70
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #. MainForm..Panel1..lblLink....Caption
 #: frmMain.dfm:136
@@ -362,7 +363,7 @@ msgstr "Giù"
 #. MainForm..Panel2..PageControl1..tsFax..Caption
 #: frmMain.dfm:500
 msgid "Fax"
-msgstr ""
+msgstr "Fax"
 
 #. MainForm..Panel2..PageControl1..tsFax..Label1..Caption
 #: frmMain.dfm:510
