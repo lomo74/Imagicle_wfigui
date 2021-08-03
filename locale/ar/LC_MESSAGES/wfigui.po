@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 11:55+0200\n"
-"PO-Revision-Date: 2021-08-03 13:04+0000\n"
+"PO-Revision-Date: 2021-08-03 13:10+0000\n"
 "Last-Translator: Luca Campo Dall'Orto <luca.campodallorto@imagicle.com>\n"
 "Language-Team: Arabic <https://weblate.imagicle.com/projects/"
 "imagicle-print-to-fax/wfigui/ar/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 #. MainForm..Panel1..Label4..Caption
 #: frmConfig.dfm:7 frmMain.dfm:6 frmMain.dfm:105
 msgid "Imagicle print2fax"
-msgstr "trad"
+msgstr ""
 
 #. ConfigForm..Font.Name
 #. ConfigForm..Panel1..Label5..Font.Name
